@@ -71,11 +71,11 @@ menuItem_B0A5A093_AECB_C07A_41DF_47F1EA97DE66.label = by vide360
 ### Button
 Button_6449681F_7F35_05C9_41D1_DB44B664B06A_mobile.label = Baby's
 Button_6449681F_7F35_05C9_41D1_DB44B664B06A.label = Baby's
-Button_64336FF6_7F37_1A5A_41D7_1C94FF245F19_mobile.label = Fundamental >>
+Button_64336FF6_7F37_1A5A_41D7_1C94FF245F19_mobile.label = Fundamental
 Button_64336FF6_7F37_1A5A_41D7_1C94FF245F19.label = Fundamental >>
 Button_961BB618_8CA9_620A_41DE_D4E871544165_mobile.label = Geral
 Button_961BB618_8CA9_620A_41DE_D4E871544165.label = Geral
-Button_65E236CD_7F35_0A49_41DD_4D2C57DA8347_mobile.label = Infantil >>
+Button_65E236CD_7F35_0A49_41DD_4D2C57DA8347_mobile.label = Infantil 
 Button_65E236CD_7F35_0A49_41DD_4D2C57DA8347.label = Infantil >>
 Button_6465961B_7F3F_0DC9_41CB_78E81C5D1CEA.label = Recepção
 Button_6465961B_7F3F_0DC9_41CB_78E81C5D1CEA_mobile.label = Recepção
@@ -94,11 +94,10 @@ Image_8E4B96B8_AE47_C1B6_41B3_AD790B631DEF.url = skin/Image_8E4B96B8_AE47_C1B6_4
 
 ### Multiline Text
 HTMLText_5F6BB5BF_7CED_0EC9_41DD_98471452C97A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
-HTMLText_5F6BB5BF_7CED_0EC9_41DD_98471452C97A_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Prime's School
+tour.name = Prime'School
