@@ -1,0 +1,104 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_B1EC4F54_AED9_40FE_41DD_9E3D4B7DD78A.source = https://api.whatsapp.com/send/?phone=5583998026422&text&type=phone_number&app_absent=0
+LinkBehaviour_8C8C9827_AE48_C05A_41CA_F6CD950A1824.source = https://whatsa.me/558335086988/?t=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20visita%20na%20escola%20%F0%9F%98%83
+LinkBehaviour_9701F2A7_8750_12D9_41CA_FE3CA1014B23.source = https://whatsa.me/558335086988/?t=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20visita%20na%20escola%20%F0%9F%98%83
+LinkBehaviour_96CB6C8F_8750_16E9_41D6_6F6129D407F7.source = https://www.google.com/maps/place/Prime's+Cool/@-7.1110487,-34.8441867,15z/data=!4m6!3m5!1s0x7acdd41305f3c97:0xc65fd3eb2f7745cb!8m2!3d-7.1110487!4d-34.8441867!16s%2Fg%2F11bttcs57g?entry=ttu
+LinkBehaviour_8C8EA82B_AE48_C0AA_41B2_7C613D5624C1.source = https://www.google.com/maps/place/Prime's+Cool/@-7.1110487,-34.8441867,15z/data=!4m6!3m5!1s0x7acdd41305f3c97:0xc65fd3eb2f7745cb!8m2!3d-7.1110487!4d-34.8441867!16s%2Fg%2F11bttcs57g?entry=ttu
+LinkBehaviour_8C8CC828_AE48_C056_41AD_8BC8A4B525FF.source = https://www.instagram.com/primescool/
+LinkBehaviour_97F2DE83_8750_F2D9_41D4_9293665E0194.source = https://www.instagram.com/primescool/
+LinkBehaviour_8C8C4826_AE48_C05A_41DE_A0A87138A515.source = https://www.primescool.com.br/
+LinkBehaviour_88919222_8730_6DDB_41D4_BDD7D442502D.source = https://www.primescool.com.br/
+
+## Media
+
+### Audio
+audiores_B717964B_AEBB_40EA_41D2_FC8894812F28.mp3Url = media/audio_B7AE5075_AEB8_C0BE_41D7_FA6B959246D7_pt.mp3
+
+### Title
+panorama_6B8D6AD7_7D34_FA59_41DB_EA850AEEB197.label = Recepção
+panorama_6F406B1B_7DED_1BC9_41B5_051F366F6C4C.label = Sl berços
+panorama_6F40B83B_7DED_05C9_41B1_33618C78680A.label = Sl brinq esque 02
+panorama_6F3EE43A_7DEF_0DCB_41C1_0CE905E59CF3.label = armários
+panorama_96C93175_877B_400C_41DA_0CCB47CC8034.label = banho 1 vão
+panorama_6F4191C0_7DEF_06B7_41DA_43A8162B8976.label = banho bb
+panorama_6F401E62_7DEF_1A7B_41C5_A1599A6CDDED.label = corr esq 01
+panorama_6F406B66_7DEF_3A7B_41CD_C1BA6123D4F8.label = corr01
+panorama_6F40B7C9_7DEF_0A49_41C5_64F8FEB03125.label = corre sala 1 andar
+panorama_6F41F403_7DEF_0DB9_41B1_FE59551CB1FA.label = corre01 1 andar
+panorama_6F417065_7DED_0679_41D8_71A740CF0E3D.label = corredor esq 02
+panorama_6F41ACE3_7DED_1E79_41AB_55D664C16346.label = corredor externo
+panorama_6F41B9A5_7DED_06F9_41DF_136AA2D13AF2.label = corredor sl 01 vão
+panorama_6F400710_7DED_0BD6_41DD_2C047352800E.label = corredor02 1 andar
+panorama_6B220FFF_7D35_3A49_41D2_5CCD941078BC.label = entrada
+panorama_6F418413_7DED_0DD9_41D3_1AA817EA9064.label = espaço tecnico
+panorama_6B8E9D5C_7D35_1E4F_41D5_B3BE220F6AC4.label = frente
+panorama_6F40617E_7DED_064B_41D8_4EE61CB745E0.label = frente fazendinha
+panorama_6F418E92_7DED_1ADB_41C5_449FF41FC173.label = ginásio
+panorama_6F40DCB4_7DED_3EDF_41D3_E9900EB56C9A.label = playgroung
+panorama_6F418986_7DED_06BB_41D0_F8C82CC1534A.label = pracinha
+panorama_6F405649_7DED_0A49_4188_9DA2FD09AEA3.label = refeitório
+panorama_6F409374_7DED_0A5F_41C8_B216D774E353.label = sl 1 vão
+panorama_6F4020DE_7DED_064B_41D8_831A3E6ACA0A.label = sl abc
+panorama_6F40DE04_7DED_3DBF_41C7_462725ABD583.label = sl artes
+panorama_6F40B4FF_7DED_0E49_41D2_9EBB9CC100FA.label = sl brinq esque
+panorama_6F40D1B5_7DED_06D9_41D4_54D6EC30C8BF.label = sl brinque direita
+panorama_6F40FDD0_7DED_3E57_41D2_8CE7799A0B9A.label = sl ciências
+panorama_6F40FB1A_7DED_1BCB_41D3_923CAD9CA5DD.label = sl história
+panorama_6F409860_7DED_0677_41D4_782A2AAF87A4.label = sl lanches
+panorama_6FBFA4BC_7D13_0ECF_41D0_8F8453BF0FDE.label = sl maker
+panorama_6FBFD219_7D13_05C9_41DA_3106D2B6F693.label = sl matemática
+panorama_6FBF4F3B_7D13_3BC9_41CC_B99803CEBBAE.label = sl musica
+panorama_6FBFBC02_7D13_1DBB_41DD_4FEC92BE976C.label = sl português
+panorama_6FBFA9EB_7D13_0649_41D4_0AF5143DDC95.label = sl recração02
+panorama_6FC02715_7D13_0BD9_41C2_84F51F9C82A1.label = sl recreação frente
+panorama_6FC01502_7D13_0FBA_41DE_CA8AF5E063C1.label = sl recreação01
+panorama_6FC01333_7D13_0BD9_41CF_4DA0D03564A6.label = varanda sl 1 vão
+panorama_692A6855_7DEF_0659_41D3_14256977BBBE.label = área externa
+panorama_6F3FC965_7DEF_0679_41D2_6E3B603F7F6B.label = área externa2
+panorama_6F3E16DD_7DEF_0A49_4190_F49CDB58A4D5.label = área recreação
+
+## Right Click Menu
+
+### Text
+menuItem_B0A5A093_AECB_C07A_41DF_47F1EA97DE66.label = by vide360
+
+## Skin
+
+### Button
+Button_6449681F_7F35_05C9_41D1_DB44B664B06A_mobile.label = Baby's
+Button_6449681F_7F35_05C9_41D1_DB44B664B06A.label = Baby's
+Button_64336FF6_7F37_1A5A_41D7_1C94FF245F19_mobile.label = Fundamental >>
+Button_64336FF6_7F37_1A5A_41D7_1C94FF245F19.label = Fundamental >>
+Button_961BB618_8CA9_620A_41DE_D4E871544165_mobile.label = Geral
+Button_961BB618_8CA9_620A_41DE_D4E871544165.label = Geral
+Button_65E236CD_7F35_0A49_41DD_4D2C57DA8347_mobile.label = Infantil >>
+Button_65E236CD_7F35_0A49_41DD_4D2C57DA8347.label = Infantil >>
+Button_6465961B_7F3F_0DC9_41CB_78E81C5D1CEA.label = Recepção
+Button_6465961B_7F3F_0DC9_41CB_78E81C5D1CEA_mobile.label = Recepção
+Button_975D6162_8CA9_7E3E_41C9_0CA99833017D.label = Refeitório
+Button_975D6162_8CA9_7E3E_41C9_0CA99833017D_mobile.label = Refeitório
+Button_6428F496_7F2D_0EDB_41D7_2B2C48EE87B4_mobile.label = Área Externa
+Button_6428F496_7F2D_0EDB_41D7_2B2C48EE87B4.label = Área Externa
+Button_6421AEF1_7F2F_3A59_41C7_0DAAE5CF0B22.label = Área Externa 2
+Button_6421AEF1_7F2F_3A59_41C7_0DAAE5CF0B22_mobile.label = Área Externa 2
+
+### Image
+Image_5FA1B607_7D15_0DB9_4194_513824212678_mobile.url = skin/Image_5FA1B607_7D15_0DB9_4194_513824212678_mobile_pt.png
+Image_5FA1B607_7D15_0DB9_4194_513824212678.url = skin/Image_5FA1B607_7D15_0DB9_4194_513824212678_pt.png
+Image_8E4B96B8_AE47_C1B6_41B3_AD790B631DEF_mobile.url = skin/Image_8E4B96B8_AE47_C1B6_41B3_AD790B631DEF_mobile_pt.gif
+Image_8E4B96B8_AE47_C1B6_41B3_AD790B631DEF.url = skin/Image_8E4B96B8_AE47_C1B6_41B3_AD790B631DEF_pt.gif
+
+### Multiline Text
+HTMLText_5F6BB5BF_7CED_0EC9_41DD_98471452C97A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_5F6BB5BF_7CED_0EC9_41DD_98471452C97A_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Prime's School

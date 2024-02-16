@@ -1,0 +1,18 @@
+@font-face {
+   font-family: "Omnes Cond";
+   src: url("fonts/Omnes Cond Bold.woff") format("woff"), url("fonts/Omnes Cond Bold.eot") format("embedded-opentype"), url("fonts/Omnes Cond Bold.ttf") format("truetype"), url("fonts/Omnes Cond Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald Regular";
+   src: url("fonts/Oswald Regular.woff") format("woff"), url("fonts/Oswald Regular.eot") format("embedded-opentype"), url("fonts/Oswald Regular.ttf") format("truetype"), url("fonts/Oswald Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Oswald Regular";
+   src: url("fonts/Oswald-Regular.woff") format("woff"), url("fonts/Oswald-Regular.eot") format("embedded-opentype"), url("fonts/Oswald-Regular.ttf") format("truetype"), url("fonts/Oswald-Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
