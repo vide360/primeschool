@@ -1,8 +1,8 @@
 {
+ "theme_color": "#51CCFF",
  "display": "fullscreen",
- "start_url": "index.htm",
- "name": "Prime'School",
  "background_color": "#51CCFF",
+ "name": "Primescool",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +40,5 @@
    "sizes": "64x64"
   }
  ],
- "theme_color": "#51CCFF"
+ "start_url": "index.htm"
 }
