@@ -4,14 +4,14 @@
 
 ### URL
 LinkBehaviour_B1EC4F54_AED9_40FE_41DD_9E3D4B7DD78A.source = https://api.whatsapp.com/send/?phone=5583998026422&text&type=phone_number&app_absent=0
-LinkBehaviour_0E0A7669_1B68_943B_4197_7CA0DB589618.source = https://whatsa.me/558335086988/?t=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20visita%20na%20escola%20%F0%9F%98%83
 LinkBehaviour_3D1BDD1F_19A9_7418_419A_51C5B13983EC.source = https://whatsa.me/558335086988/?t=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20visita%20na%20escola%20%F0%9F%98%83
-LinkBehaviour_3D1AAD22_19A9_7428_4199_14FF96F14CA2.source = https://www.google.com/maps/place/Prime's+Cool/@-7.1110487,-34.8441867,15z/data=!4m6!3m5!1s0x7acdd41305f3c97:0xc65fd3eb2f7745cb!8m2!3d-7.1110487!4d-34.8441867!16s%2Fg%2F11bttcs57g?entry=ttu
+LinkBehaviour_0E0A7669_1B68_943B_4197_7CA0DB589618.source = https://whatsa.me/558335086988/?t=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20visita%20na%20escola%20%F0%9F%98%83
 LinkBehaviour_0E4FAB23_1B69_9C28_419E_7F3952D75AF5.source = https://www.google.com/maps/place/Prime's+Cool/@-7.1110487,-34.8441867,15z/data=!4m6!3m5!1s0x7acdd41305f3c97:0xc65fd3eb2f7745cb!8m2!3d-7.1110487!4d-34.8441867!16s%2Fg%2F11bttcs57g?entry=ttu
-LinkBehaviour_0E0A5669_1B68_943B_41B6_4099E475C524.source = https://www.instagram.com/primescool/
+LinkBehaviour_3D1AAD22_19A9_7428_4199_14FF96F14CA2.source = https://www.google.com/maps/place/Prime's+Cool/@-7.1110487,-34.8441867,15z/data=!4m6!3m5!1s0x7acdd41305f3c97:0xc65fd3eb2f7745cb!8m2!3d-7.1110487!4d-34.8441867!16s%2Fg%2F11bttcs57g?entry=ttu
 LinkBehaviour_3D1A1D20_19A9_7428_418E_F0ADFF699CA6.source = https://www.instagram.com/primescool/
-LinkBehaviour_0E0A1669_1B68_943B_41AD_93EF4827A2D9.source = https://www.primescool.com.br/
+LinkBehaviour_0E0A5669_1B68_943B_41B6_4099E475C524.source = https://www.instagram.com/primescool/
 LinkBehaviour_3D1BAD1E_19A9_7418_4189_CA3C4AE5BA1D.source = https://www.primescool.com.br/
+LinkBehaviour_0E0A1669_1B68_943B_41AD_93EF4827A2D9.source = https://www.primescool.com.br/
 
 ## Media
 
@@ -64,8 +64,8 @@ panorama_6F3FC965_7DEF_0679_41D2_6E3B603F7F6B.label = área externa2
 panorama_6F3E16DD_7DEF_0A49_4190_F49CDB58A4D5.label = área recreação
 
 ### Video
-videolevel_178527A2_1B51_6C16_41B2_85E1A6F8B27F.posterURL = media/video_3B45413E_1969_AC19_4178_FDB199ECE8C8_poster_pt.jpg
-videolevel_178527A2_1B51_6C16_41B2_85E1A6F8B27F.url = media/video_3B45413E_1969_AC19_4178_FDB199ECE8C8_pt.mp4
+videolevel_083858EB_1BF3_E415_41AF_E1725E91A41A.posterURL = media/video_3B45413E_1969_AC19_4178_FDB199ECE8C8_poster_pt.jpg
+videolevel_083858EB_1BF3_E415_41AF_E1725E91A41A.url = media/video_3B45413E_1969_AC19_4178_FDB199ECE8C8_pt.mp4
 
 ### Video Subtitles
 
